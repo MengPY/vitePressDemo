@@ -11,7 +11,7 @@
           企业级技术文档平台，提供简洁、高效、可靠的解决方案
         </p>
         <div class="hero-actions">
-          <a href="/obei-docs/指南目录/01-介绍" class="btn btn-primary">开始阅读</a>
+          <a href="/vitePressDemo/指南目录/01-介绍" class="btn btn-primary">开始阅读</a>
           <!-- <a href="https://github.com/your-org/obei" class="btn btn-secondary" target="_blank">
             GitHub
           </a> -->
@@ -71,9 +71,9 @@ const features = ref([
 ])
 
 const quickNavs = ref([
-  { icon: '📖', title: '指南', desc: '快速上手和配置说明', link: '/obei-docs/指南目录/01-介绍' },
-  { icon: '⚙️', title: '配置', desc: '详细的配置选项参考', link: '/obei-docs/指南目录/02-配置' },
-  { icon: '🔌', title: 'API', desc: '完整的 API 接口文档', link: '/obei-docs/api/' },
+  { icon: '📖', title: '指南', desc: '快速上手和配置说明', link: '/vitePressDemo/指南目录/01-介绍' },
+  { icon: '⚙️', title: '配置', desc: '详细的配置选项参考', link: '/vitePressDemo/指南目录/02-配置' },
+  { icon: '🔌', title: 'API', desc: '完整的 API 接口文档', link: '/vitePressDemo/api/' },
 ])
 </script>
 
