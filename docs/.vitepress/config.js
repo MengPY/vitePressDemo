@@ -6,7 +6,7 @@ export default defineConfig({
   description: '欧贝项目技术文档',
   lang: 'zh-CN',
   // 设置站点基础路径，例如部署到 https://example.com/obei/ 时设为 '/obei/'
-  base: '/obei-docs/',
+  base: '/vitePressDemo/',
   themeConfig: {
     siteTitle: '欧贝文档',
     // nav: [
